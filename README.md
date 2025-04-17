@@ -5,4 +5,6 @@ Cuenta con los siguientes módulos:
 
 ADMINISTRADOR: login, maestrías (crear nuevo programa, agregar docente, agregar oficio), doctorados (crear nuevo programa, agregar docente, agregar oficio), docentes, directorio, oficios.
 
-📄 [Ver las interfaces (PDF)](sistema de  gestion docente.pdf)
+📄 [Ver las interfaces (PDF)](sistemadegestiondocente.pdf)
+
+

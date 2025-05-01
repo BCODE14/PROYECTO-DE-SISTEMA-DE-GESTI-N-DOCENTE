@@ -9,4 +9,13 @@ ADMINISTRADOR: login, maestrías (crear nuevo programa, agregar docente, agregar
 
 📄 [Ver las interfaces (PDF)](sistema_de_gestion_docente.pdf)
 
+## Autor
+- **Nombre del Autor:** Jackelin marca
+- **Correo Electrónico:** jmarca991@gmail.com
+- **GitHub:** https://github.com/BCODE14/web-tablero
+
+## Licencia
+Este proyecto está bajo la Licencia propietario.
+
+
 
